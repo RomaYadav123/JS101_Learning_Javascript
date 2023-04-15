@@ -1,0 +1,12 @@
+let name = "Anmol";
+let school = "sifton";
+let grade = "A";
+let section = "B";
+let rollno = "1";
+let marks = 98;
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log(marks);
